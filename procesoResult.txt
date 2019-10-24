@@ -1,0 +1,16 @@
+ El volumen de la unidad D no tiene etiqueta.
+ El n£mero de serie del volumen es: E40F-4F58
+
+ Directorio de D:\Users\Alumno\PGV\EjemploProcesos
+
+21/10/2019  13:29    <DIR>          .
+21/10/2019  13:29    <DIR>          ..
+21/10/2019  13:02               396 .classpath
+21/10/2019  13:02               391 .project
+21/10/2019  13:02    <DIR>          .settings
+21/10/2019  13:03    <DIR>          bin
+21/10/2019  13:12             1.491 LanzadorProcesos.jar
+21/10/2019  13:30                 0 procesoResult.txt
+21/10/2019  13:03    <DIR>          src
+               4 archivos          2.278 bytes
+               5 dirs  216.814.260.224 bytes libres
